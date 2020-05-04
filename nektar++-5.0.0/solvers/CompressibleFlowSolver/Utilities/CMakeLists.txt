@@ -1,0 +1,3 @@
+ADD_SOLVER_UTILITY(ExtractSurface2DCFS CompressibleFlowSolver SOURCES ExtractSurface2DCFS.cpp)
+ADD_SOLVER_UTILITY(ExtractSurface3DCFS CompressibleFlowSolver SOURCES ExtractSurface3DCFS.cpp)
+ADD_SOLVER_UTILITY(CompressibleBL CompressibleFlowSolver SOURCES CompressibleBL.cpp)
